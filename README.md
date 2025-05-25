@@ -1,6 +1,8 @@
 # ASR Multiagent
 Multiagent system for accessible Automated Speech Recognition (ASR) and function calling in smart home ecosystem
 
+![multiagent scheme](https://raw.githubusercontent.com/vifirsanova/asr-multiagent/refs/heads/main/scheme.svg)
+
 ### TODO
 
 1. Загрузить инсталятор 

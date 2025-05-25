@@ -1,4 +1,5 @@
 # ASR Multiagent
+
 Multiagent system for accessible Automated Speech Recognition (ASR) and function calling in smart home ecosystem
 
 ## Example usage
@@ -7,7 +8,24 @@ Multiagent system for accessible Automated Speech Recognition (ASR) and function
 python3 script.py --data "audio.wav"
 ```
 
+Sample output:
+
+````
+model
+```json
+{
+  "ID": "SH001",
+  "META_DESCRIPTION": "Controls the main lighting system in the living room",
+  "FUNCTION_NAME": "living_room_light_control"
+}
+```
+````
+
+## Model architecture
+
 ![multiagent scheme](https://raw.githubusercontent.com/vifirsanova/asr-multiagent/refs/heads/main/scheme.svg)
+
+---
 
 ### TODO
 

@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "SH001",
+    "META_DESCRIPTION": "Controls the main lighting system in the living room",
+    "FUNCTION_NAME": "living_room_light_control"
+  },
+  {
+    "ID": "SH002",
+    "META_DESCRIPTION": "Adjusts the thermostat temperature in the entire home",
+    "FUNCTION_NAME": "thermostat_temperature_adjust"
+  },
+  {
+    "ID": "SH003",
+    "META_DESCRIPTION": "Activates the security camera system and motion sensors",
+    "FUNCTION_NAME": "security_system_activate"
+  },
+  {
+    "ID": "SH004",
+    "META_DESCRIPTION": "Controls the smart blinds in the master bedroom",
+    "FUNCTION_NAME": "master_bedroom_blinds_control"
+  },
+  {
+    "ID": "SH005",
+    "META_DESCRIPTION": "Manages the smart plug for the coffee machine in the kitchen",
+    "FUNCTION_NAME": "kitchen_coffee_machine_plug"
+  },
+  {
+    "ID": "SH006",
+    "META_DESCRIPTION": "Controls the multi-color LED strips in the entertainment area",
+    "FUNCTION_NAME": "entertainment_area_led_control"
+  },
+  {
+    "ID": "SH007",
+    "META_DESCRIPTION": "Activates the robot vacuum cleaning schedule",
+    "FUNCTION_NAME": "vacuum_cleaning_schedule"
+  },
+  {
+    "ID": "SH008",
+    "META_DESCRIPTION": "Monitors and reports air quality metrics throughout the home",
+    "FUNCTION_NAME": "air_quality_monitoring"
+  }
+]
